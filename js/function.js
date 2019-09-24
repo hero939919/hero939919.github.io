@@ -1,5 +1,5 @@
 function test(){
-	if(comfirm("hello")){
+	if(confirm("hello")){
 		alert("hello");
 	}else{
 		alert("github");
