@@ -3,4 +3,5 @@ function test(){
 		alert("hello");
 	}else{
 		alert("github");
+	}
 }
