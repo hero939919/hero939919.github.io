@@ -1,3 +1,6 @@
 function test(){
-	alert("hello");
+	if(comfirm("hello")){
+		alert("hello");
+	}else{
+		alert("github");
 }
